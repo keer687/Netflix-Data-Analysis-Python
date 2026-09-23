@@ -1,2 +1,2 @@
 # Netflix-Data-Analysis-Python
-Analyzed the Netflix dataset using Python, Pandas, and NumPy to clean data, perform EDA, and generate meaningful business insights through data analysis.
+An end-to-end Netflix Data Analysis project using Python, Pandas, NumPy, and Matplotlib. Performed data cleaning, exploratory data analysis (EDA), and generated business insights from the Netflix dataset.
